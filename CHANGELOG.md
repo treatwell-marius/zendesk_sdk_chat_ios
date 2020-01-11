@@ -1,3 +1,6 @@
+# Version 1.4.6-beta.1
+- Some bug fixes a reliability improvements.
+
 # Version 1.4.5
 - Fixed a keyboard layout issue that occurred when the `isTranslucent` property of the `UINavigationBar` was set to false.
 - Fixed an issue where visitors couldn't leave a comment on a chat rating.
